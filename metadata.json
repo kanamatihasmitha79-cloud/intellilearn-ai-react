@@ -1,0 +1,6 @@
+{
+  "name": "IntelliLearn AI – Intelligent Visual Learning Platform",
+  "description": "Turn complex study material into visual, personalized learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
